@@ -1,6 +1,6 @@
 ---
 excerpt_seperator: <!--more-->
-excerpt: excerdddd
+excerpt: this a excerpt
 tags: pages;what
 ---
 
