@@ -2,12 +2,12 @@
 excerpt_seperator: <!--more-->
 
 ---
-## There is no 
-
-way out
 
 Excerpt
 <!--more-->
+## There is no 
+
+way out
 
 Out-of-excerpt
 
