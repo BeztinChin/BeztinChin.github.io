@@ -1,6 +1,6 @@
 ---
 excerpt_seperator: <!--more-->
-excerpt: excerpttttt
+excerpt: excer
 ---
 
 way out
