@@ -2,7 +2,6 @@
 excerpt_seperator: <!--more-->
 excerpt: excerdddd
 tags: pages;what
-author: Bez
 ---
 
 
