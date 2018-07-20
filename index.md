@@ -1,4 +1,4 @@
-## Welcome to Beztin's Pages
+# Welcome to Beztin's Pages
 
 <ul>
   {% for post in site.posts %}
