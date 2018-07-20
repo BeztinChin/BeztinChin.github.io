@@ -1,7 +1,10 @@
 ---
 excerpt_seperator: <!--more-->
 excerpt: excer
+tags: pages;what
+author: Bez
 ---
+
 
 way out
 <!--more-->
