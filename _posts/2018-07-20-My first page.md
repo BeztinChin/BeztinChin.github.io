@@ -7,7 +7,7 @@ excerpt_seperator: <!--more-->
 way out
 
 Excerpt
-<!--is this work???-->
+<!--more-->
 
 Out-of-excerpt
 
