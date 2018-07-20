@@ -7,8 +7,8 @@ excerpt_seperator: <!--more-->
 way out
 
 Excerpt
-<!--more-->
-is this work???
+<!--is this work???-->
+
 Out-of-excerpt
 
 next LL
