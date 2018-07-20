@@ -7,8 +7,6 @@ excerpt: excerpttttt
 
 ## There is no dh
 
-Excerpt
-<!--more-->
 
 way out
 
