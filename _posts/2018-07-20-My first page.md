@@ -3,10 +3,12 @@ excerpt_seperator: <!--more-->
 
 ---
 
-Excerpt
-<!--more-->
+
 
 ## There is no 
+
+Excerpt
+<!--more-->
 
 way out
 
