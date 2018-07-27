@@ -1,5 +1,5 @@
 ---
-title: Exception in python
+title: Exception in python.
 excerpt： here will introduce some Exception in python and show how to caught and raise it.
 ---
 {% include header.html %}
