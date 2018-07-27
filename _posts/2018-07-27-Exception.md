@@ -6,7 +6,7 @@ excerpt: Introduce some common exception and some ways to haddle it
 
 ## common exception in python:
 
-- ImportErrr
+- ImportError
 - IndexError
 - NameError: *an unknow variable is used*
 - SyntaxError
