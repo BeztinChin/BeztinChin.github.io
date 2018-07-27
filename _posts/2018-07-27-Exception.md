@@ -1,27 +1,22 @@
----
-title: Exception in python.
-excerpt：here will introduce some Exception in python and show how to caught and raise it.
----
 
-
-##Exception in python 
+#Exception in python 
 
 
 ##common exception in python:
 
-ImportError
-IndexError
-NameError: an unknow variable is used
-SyntaxError
-TypeError: * when the function cant do with this kind of type*
-ValueError:* when the function cant do with this value( right type)*
-ZeroDivisionError
-
+- ImportErrr
+- IndexError
+- NameError: an unknow variable is used
+- SyntaxError
+- TypeError: * when the function cant do with this kind of type*
+- ValueError:* when the function cant do with this value( right type)*
+- ZeroDivisionError
+<br/>
 *also some other bulit-in exception* *Third-party libraries often define their own exceptions*
-
+<br/><br/>
 
 ##Syntax about exception in python:
-
+```javascript
 try:
   ...
 except ZeroDivisionError:
@@ -30,12 +25,15 @@ except (ValueError,TypeError):
   ...
 finally:
   ...
-
+```
 
 ##get some exception:
 
-raise
+- raise
+```javascript
 raise NameError('Invalid name!')
+```
+```javascript
 try:
   num=5/0
 except:
@@ -47,10 +45,13 @@ some error occurred
 
 ZeroDivisionError: devision by zero
 >>>
-Assert
+```
+- Assert
+```javascript
 temp= -10
 assert(temp>10),'colder than absolute zero!'
 
 >>>
 AssertionError: colder than absolute zero!
 >>>
+```
