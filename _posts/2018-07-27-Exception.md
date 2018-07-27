@@ -36,7 +36,7 @@ finally:
 raise NameError('Invalid name!')
 ```
 
-```javascript
+&emsp```javascript
 try:
   num=5/0
 except:
@@ -49,7 +49,9 @@ some error occurred
 ZeroDivisionError: devision by zero
 >>>
 ```
+
 - Assert
+
 ```javascript
 temp= -10
 assert(temp>10),'colder than absolute zero!'
