@@ -33,11 +33,10 @@ finally:
 
 - raise
 ```javascript
-raise NameError('Invalid name!')
-```
+raise NameError('Invalid name!'）
 
-&emsp
-```javascript
+# and the following is another way to use "raise"
+
 try:
   num=5/0
 except:
