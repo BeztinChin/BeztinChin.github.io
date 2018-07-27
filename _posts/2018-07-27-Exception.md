@@ -1,4 +1,7 @@
-
+---
+title: Exception in python.
+excerpt: Introduce some common exception and some ways to haddle it
+---
 # Exception in python 
 
 
@@ -6,7 +9,7 @@
 
 - ImportErrr
 - IndexError
-- NameError: an unknow variable is used
+- NameError: *an unknow variable is used*
 - SyntaxError
 - TypeError: *when the function cant do with this kind of type*
 - ValueError: *when the function cant do with this value( right type)*
