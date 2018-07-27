@@ -35,8 +35,7 @@ finally:
 ```javascript
 raise NameError('Invalid name!'）
 
-# and the following is another way to use "raise"
-
+................................................................................................................................
 try:
   num=5/0
 except:
