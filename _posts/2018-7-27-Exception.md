@@ -1,8 +1,6 @@
 ---
-
 title: Exception in python.
 excerpt：here will introduce some Exception in python and show how to caught and raise it.
-
 ---
 
 
