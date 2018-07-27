@@ -2,7 +2,7 @@
 title: Exception in python.
 excerpt: Introduce some common exception and some ways to haddle it
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ## common exception in python:
 
