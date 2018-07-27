@@ -4,8 +4,6 @@ excerpt：here will introduce some Exception in python and show how to caught an
 ---
 
 
-
-{% include header.html %}
 ##Exception in python 
 
 
