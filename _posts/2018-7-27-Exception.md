@@ -3,6 +3,8 @@ title: Exception in python
 excerpt： here will introduce some Exception in python and show how to caught and raise it.
 ---
 {% include header.html %}
+#Exception in python
+<br/><br/><br/>
 ##common exception in python:
 - ImportError
 - IndexError
