@@ -1,8 +1,8 @@
 
-#Exception in python 
+# Exception in python 
 
 
-##common exception in python:
+## common exception in python:
 
 - ImportErrr
 - IndexError
@@ -15,7 +15,7 @@
 *also some other bulit-in exception* *Third-party libraries often define their own exceptions*
 <br/><br/>
 
-##Syntax about exception in python:
+## Syntax about exception in python:
 ```javascript
 try:
   ...
@@ -27,7 +27,7 @@ finally:
   ...
 ```
 
-##get some exception:
+## get some exception:
 
 - raise
 ```javascript
