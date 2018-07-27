@@ -8,8 +8,8 @@
 - IndexError
 - NameError: an unknow variable is used
 - SyntaxError
-- TypeError: * when the function cant do with this kind of type*
-- ValueError:* when the function cant do with this value( right type)*
+- TypeError: *when the function cant do with this kind of type*
+- ValueError: *when the function cant do with this value( right type)*
 - ZeroDivisionError
 <br/>
 *also some other bulit-in exception* *Third-party libraries often define their own exceptions*
