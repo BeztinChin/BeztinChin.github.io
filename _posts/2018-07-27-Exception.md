@@ -15,7 +15,7 @@ excerpt: Introduce some common exception and some ways to haddle it
 - ValueError: *when the function cant do with this value( right type)*
 - ZeroDivisionError
 <br/>
-*also some other bulit-in exception* *Third-party libraries often define their own exceptions*
+*also some other bulit-in exception* <br/>*Third-party libraries often define their own exceptions*
 <br/><br/>
 
 ## Syntax about exception in python:
