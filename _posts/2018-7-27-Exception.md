@@ -3,7 +3,7 @@ title: Exception in python
 excerpt： here will introduce some Exception in python and show how to caught and raise it.
 ---
 {% include header.html %}
-common **exception** in python:
+##common exception in python:
 - ImportError
 - IndexError
 - NameError: *an unknow variable is used*
@@ -17,7 +17,7 @@ common **exception** in python:
 <br/><br/>
 
 
-Syntax about exception in python:
+##Syntax about exception in python:
 ```javascript
 try:
   ...
@@ -29,7 +29,7 @@ finally:
   ...
 ```
 <br/><br/>
-get some exception:
+##get some exception:
 - raise
 ```javascript
 raise NameError('Invalid name!')
