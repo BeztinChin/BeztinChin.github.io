@@ -36,7 +36,8 @@ finally:
 raise NameError('Invalid name!')
 ```
 
-&emsp```javascript
+&emsp
+```javascript
 try:
   num=5/0
 except:
