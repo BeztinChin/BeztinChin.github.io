@@ -32,10 +32,11 @@ finally:
 ## get some exception:
 
 - raise
+
 ```javascript
 raise NameError('Invalid name!'）
 
-(or write as this )
+or write as this :
 try:
   num=5/0
 except:
