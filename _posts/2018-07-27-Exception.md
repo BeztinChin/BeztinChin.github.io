@@ -36,7 +36,7 @@ finally:
 ```javascript
 raise NameError('Invalid name!'）
 
-or write as this :
+or write like following :
 try:
   num=5/0
 except:
