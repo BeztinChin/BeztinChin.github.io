@@ -35,6 +35,7 @@ finally:
 ```javascript
 raise NameError('Invalid name!')
 ```
+
 ```javascript
 try:
   num=5/0
