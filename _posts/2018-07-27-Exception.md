@@ -34,7 +34,7 @@ finally:
 - raise
 
 ```javascript
-raise NameError('Invalid name!'）
+raise NameError('Invalid name!')
 
 or write like following :
 try:
