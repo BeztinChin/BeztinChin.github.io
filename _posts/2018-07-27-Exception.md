@@ -35,7 +35,7 @@ finally:
 ```javascript
 raise NameError('Invalid name!'）
 
-or write as flowing:
+(or write as this )
 try:
   num=5/0
 except:
