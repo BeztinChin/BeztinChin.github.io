@@ -1,7 +1,7 @@
 ---
 title: Exception in python.
 excerpt: Introduce some common exception and some ways to haddle it.
-tags: python ，exception
+tags: python exception
 ---
 <br/><br/>
 
