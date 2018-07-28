@@ -62,4 +62,4 @@ assert(temp>10),'colder than absolute zero!'
 AssertionError: colder than absolute zero!
 >>>
 ```
-*the **AssertionError** can also be caught by **except** *
+*the **AssertionError** can also be caught by **except***
