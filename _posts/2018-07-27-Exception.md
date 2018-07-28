@@ -29,6 +29,7 @@ except (ValueError,TypeError):
 finally:
   ...
 ```
+*when a exception happens in ''try'', the exception will be caught by the **first** matching ''except'' and then **jump** to ''finally''*
 
 ## get some exception:
 
@@ -61,3 +62,4 @@ assert(temp>10),'colder than absolute zero!'
 AssertionError: colder than absolute zero!
 >>>
 ```
+*the **AssertionError** can also be caught by **except** *
