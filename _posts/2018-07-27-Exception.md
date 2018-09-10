@@ -19,7 +19,7 @@ tags: python exception
 <br/><br/>
 
 ## Syntax about exception in python:
-```javascript
+```python
 try:
   ...
 except ZeroDivisionError:
@@ -35,7 +35,7 @@ finally:
 
 - raise
 
-```javascript
+```python
 raise NameError('Invalid name!')
 
 or write like following :
@@ -54,7 +54,7 @@ ZeroDivisionError: devision by zero
 
 - Assert
 
-```javascript
+```python
 temp= -10
 assert(temp>10),'colder than absolute zero!'
 
